@@ -1,0 +1,31 @@
+.body{
+    width: 0px;
+    height: 0px;
+}
+.second{
+    background-color: cyan;
+    height: 100px;
+}
+.first{
+    text-align: center;
+}
+.third{
+    display: inline-block;
+    background-color: brown;
+    padding-bottom: 61px;
+    padding-top: 101px;
+}
+.fourth{
+    display: inline-block;
+    background-color: aquamarine;
+    width: 1449px;
+    padding-bottom: 45px;
+}
+.fifth{
+
+}
+.sixth{
+    text-align: center;
+    background-color: red;
+    height: 50px;
+}
